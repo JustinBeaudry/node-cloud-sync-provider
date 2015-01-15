@@ -1,0 +1,9 @@
+# node specifics
+node_modules/
+npm-error.log
+
+# artifacts
+.DS_Store
+
+# editor configuration
+.editorconfig

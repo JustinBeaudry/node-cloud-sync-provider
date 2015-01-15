@@ -1,0 +1,19 @@
+{
+  "name": "node-cloud-sync-provider",
+  "version": "0.0.1",
+  "description": "Node Cloud-Sync Providers library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustinBeaudry/node-cloud-sync-provider"
+  },
+  "author": "JustinBeaudry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustinBeaudry/node-cloud-sync-provider/issues"
+  },
+  "homepage": "https://github.com/JustinBeaudry/node-cloud-sync-provider"
+}
