@@ -1,5 +1,5 @@
 {
-  "name": "node-cloud-sync-provider",
+  "name": "cloudsync-provider",
   "version": "0.0.1",
   "description": "Node Cloud-Sync Providers library",
   "main": "index.js",
