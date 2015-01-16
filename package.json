@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JustinBeaudry/node-cloud-sync-provider"
+    "url": "https://github.com/JustinBeaudry/node-cloudsync-provider"
   },
   "author": "JustinBeaudry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JustinBeaudry/node-cloud-sync-provider/issues"
+    "url": "https://github.com/JustinBeaudry/node-cloudsync-provider/issues"
   },
-  "homepage": "https://github.com/JustinBeaudry/node-cloud-sync-provider",
+  "homepage": "https://github.com/JustinBeaudry/node-cloudsync-provider",
   "dependencies": {
     "lodash": "2.4.1"
   }
