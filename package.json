@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JustinBeaudry/node-cloud-sync-provider/issues"
   },
-  "homepage": "https://github.com/JustinBeaudry/node-cloud-sync-provider"
+  "homepage": "https://github.com/JustinBeaudry/node-cloud-sync-provider",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
