@@ -1,6 +1,6 @@
 {
   "name": "cloudsync-provider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node Cloud-Sync Providers library",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JustinBeaudry/node-cloud-sync-provider",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "2.4.1"
   }
 }
